@@ -2,6 +2,7 @@
   "commands": [
     "clear A1",
     "clear C3",
-    "clear B3"
+    "clear B3",
+    "flag B2"
   ]
 }
